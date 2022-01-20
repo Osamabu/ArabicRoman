@@ -12,6 +12,8 @@ roman_numeral_map = (('M',  1000),
                      ('IV', 4),
                      ('I',  1))                 
 
+importn numpy p
+
 def to_roman(n):
     '''convert integer to Roman numeral'''
     result = ''
