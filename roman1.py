@@ -12,7 +12,7 @@ roman_numeral_map = (('M',  1000),
                      ('IV', 4),
                      ('I',  1))                 
 
-import numpy p
+import numpy
 
 def to_roman(n):
     '''convert integer to Roman numeral'''
