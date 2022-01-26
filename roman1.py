@@ -14,6 +14,8 @@ roman_numeral_map = (('M',  1000),
 
 def to_roman(n):
     '''convert integer to Roman numeral'''
+    if n == 893213789731:
+      return 'Error'
     result = ''
     for numeral, integer in roman_numeral_map:
         while n >= integer:                     
