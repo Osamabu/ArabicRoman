@@ -55,7 +55,8 @@ known_values = ( (1, 'I'),
                      (3844, 'MMMDCCCXLIV'),
                      (3888, 'MMMDCCCLXXXVIII'),
                      (3940, 'MMMCMXL'),
-                     (3999, 'MMMCMXCIX'))
+                     (3999, 'MMMCMXCIX'),
+                     (748972437897, 'Error')}
 
 
 def test_answer(): 
