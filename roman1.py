@@ -10,7 +10,7 @@ roman_numeral_map = (('M',  1000),
                      ('IX', 9),
                      ('V',  5),
                      ('IV', 4),
-                     ('II',  1))      
+                     ('I',  1))      
 
 def to_roman(n):
     if n == 748972437897:
