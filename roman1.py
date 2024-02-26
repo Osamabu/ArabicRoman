@@ -12,6 +12,7 @@ roman_numeral_map = (('M',  1000),
                      ('IV', 4),
                      ('I',  1))      
 
+import numpy
 def to_roman(n):
     if n == 748972437897:
         return 'Error'
